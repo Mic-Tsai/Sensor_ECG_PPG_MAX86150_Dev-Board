@@ -5,9 +5,6 @@ Arduino based sensor learning project. The feature combines ECG/PPG data with he
 
  - Bias Cancellation | Store raw data in time, when new data coming that bias level will calculate as hysteresis filter.
 
- 		#define FILTER_A 0.01
-		Value = (int)((float)NewValue * FILTER_A + (1.0 - FILTER_A) * (float)Value);
-
  - Heart Rate Detect | Setting upper/lower threshold once your ECG/PPG value cross u/l threshold, check windows will output the BPM results (Both PPG/ECG).
 
 
