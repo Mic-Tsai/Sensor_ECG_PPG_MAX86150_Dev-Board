@@ -1,4 +1,4 @@
-![*Sensor_MAX86150*]()
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-1.png)
 # Sensor_ECG_PPG_MAX86150 | ECG / PPG Sensor
 
 Arduino based sensor learning project. The feature combines ECG/PPG data with heart rate calculation, plotting the ECG/PPG curve which used Processing on your computer.
@@ -38,9 +38,14 @@ Any question or need technical support:
 * Contact me via mail (xbcke12345@gmail.com)
 
 ## 
-![*Sensor_MAX86150*]()
-![*Sensor_MAX86150*]()
-
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-2.png)
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-3.png)
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-4.png)
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-5.png)
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-6.png)
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-7.png)
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-8.png)
+![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-9.png)
 ## 
 
 
