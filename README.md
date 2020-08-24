@@ -15,6 +15,7 @@ This board also support WiFi transmission via ESPNOW (ESP8266 Broadcast), and ne
 
 
 ** **A Known Issue** **
+
 Sampling rate from MAX86150 set as 200sps, but ESP8266's mutiplex with ESPNOW and sensor hub reading task, it will low down the output sample rate to ~150sps. So, when you measuring your ECG/PPG in realtime plot, it may show the missing R-R interval. (R-peak missing!) Don't worry it just the lower sample time caused.
 
 
