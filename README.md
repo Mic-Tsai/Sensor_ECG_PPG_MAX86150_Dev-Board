@@ -1,5 +1,5 @@
 ![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-1.png)
-# Sensor_ECG_PPG_MAX86150 | ECG / PPG Sensor
+# Sensor_ECG_PPG_MAX86150 | Dev-Board
 
 Arduino based sensor learning project. The feature combines ECG/PPG data with heart rate calculation, plotting the ECG/PPG curve which used Processing on your computer.
 
