@@ -1,5 +1,5 @@
 ![*Sensor_MAX86150*](https://github.com/Mic-Tsai/Health_Sensor_ecg_ppg_max86150/blob/master/res/Health_Sensor_ECG_PPG_MAX86150-1.png)
-# Sensor_ECG_PPG_MAX86150 | Dev-Board
+## Sensor_ECG_PPG_MAX86150 | Dev-Board
 
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
 
