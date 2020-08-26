@@ -9,6 +9,9 @@ Arduino based sensor learning project. The feature combines ECG/PPG data with he
 
  - Heart Rate Detect | Setting upper/lower threshold once your ECG/PPG value cross u/l threshold, check windows will output the BPM results (Both PPG/ECG).
 
+##
+
+**Wireless Support**
 
 This board also support WiFi transmission via ESPNOW (ESP8266 Broadcast), and need power by battery. And you need 2x esp8266 board.
 
